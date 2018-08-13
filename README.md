@@ -1,2 +1,2 @@
-# spring-session-demo
+# spring-jdbc-session Demo
 Spring Session Using Jdbc
